@@ -3,9 +3,9 @@
     <span> qq8244353's blog</span>
     <nav>
       <ul>
-        <li>About</li>
-        <li>Work</li>
-        <li>Contact</li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/work">Work</a></li>
+        <li><a href="/content">Content</a></li>
       </ul>
     </nav>
   </div>
@@ -13,6 +13,7 @@
 
 <style>
   header{
+    margin: 0;
     background: green;
   }
   div{
