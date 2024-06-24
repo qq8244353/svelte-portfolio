@@ -11,7 +11,10 @@
 
 <style>
   h1 {
-    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
   }
   main {
     display: flex;
